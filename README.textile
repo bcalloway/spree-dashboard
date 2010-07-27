@@ -1,0 +1,5 @@
+h1. Spree Dashboard
+
+With the Spree 0.10.2 release, the dashboard provided was slightly broken and was showing inaccurate data.  This is a fix for that.
+
+Copyright (c) 2010, Brandon Calloway.  Released under the MIT license.
